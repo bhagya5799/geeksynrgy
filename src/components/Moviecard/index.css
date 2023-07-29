@@ -1,0 +1,14 @@
+.card{
+    display: flex;
+    gap: 1rem;
+    margin-bottom: 1rem;
+ 
+}
+.detals-card{
+    display: flex;
+    flex-direction: column;
+
+}
+span{
+    font-weight: bold;
+}
